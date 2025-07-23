@@ -4,7 +4,7 @@
 Stand: Juli 2025
 
 Dies sind die Datenschutzbestimmungen des Spiels Medieval Trade, welches im Google Play Store und im Apple App Store veröffentlicht wird.
-Das Spiel Medieval Trade sammelt keine Daten von oder über Nutzer oder ihre Geräte, sondern läuft ausschließlich lokal auf den Geräten der Nutzer.
+Das Spiel Medieval Trade sammelt keine Daten von oder über Nutzer oder ihrer Geräte, sondern läuft ausschließlich lokal auf den Geräten der Nutzer.
 Das Spiel Medieval Trade übermittelt keine Daten von oder über Nutzer oder ihrer Geräte.
 Alle Daten zum Speichern des Fortschritts des Spiels sowie Bestenlisteneinträge werden ausschließlich in dem lokalen Ordner des Spiels auf dem jeweiligen Gerät der Nutzer gespeichert.
 Weder diese noch andere Daten werden an einen Server übertragen.
